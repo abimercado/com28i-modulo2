@@ -1,0 +1,2 @@
+Hola! Este repositorio va a tener todo lo que haremos en el módulo 2,
+separado por ramas (si se justifica por el tema).
